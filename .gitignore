@@ -1,5 +1,9 @@
 .DS_Store
 /*.log
+lib/
+
 node_modules/
 coverage/
+
+
 .tags
